@@ -14,7 +14,7 @@ export default function Footer() {
                     <div className="flex space-x-6">
                         <Link
                             href="https://github.com/V0lms"
-                            className="text-muted-foreground hover:text-primary transition-colors"
+                            className="text-muted-foreground hover:text-purple-400"
                         >
                             GitHub
                         </Link>
@@ -22,13 +22,13 @@ export default function Footer() {
                             href="https://linkedin.com"
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="text-muted-foreground hover:text-primary transition-colors"
+                            className="text-muted-foreground hover:text-purple-400"
                         >
                             Linkedin
                         </Link>
                         <Link
                             href="mailto:victorolmosmartin@gmail.com"
-                            className="text-muted-foreground hover:text-primary transition-colors"
+                            className="text-muted-foreground hover:text-purple-400"
                         >
                             Email
                         </Link>
