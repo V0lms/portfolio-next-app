@@ -19,7 +19,7 @@ export default function Footer() {
                             GitHub
                         </Link>
                         <Link
-                            href="https://linkedin.com"
+                            href="https://www.linkedin.com/in/v0lms/"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="text-muted-foreground hover:text-purple-400"

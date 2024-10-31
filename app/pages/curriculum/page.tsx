@@ -1,6 +1,6 @@
 export default function CurriculumPage() {
   return (
-    <div className="container mx-auto px-4 py-16 min-h-[calc(97vh-8rem)]">
+    <div className="container mx-auto px-16 py-16 min-h-[calc(97vh-8rem)]">
       <h1 className="text-4xl font-bold mb-8">Curriculum Vitae</h1>
       <div className="space-y-12">
         <section>
