@@ -7,6 +7,7 @@ export default function Home() {
         </h1>
         <p className="mx-auto max-w-[700px] text-gray-400 md:text-xl">
           Bienvenido a mi portfolio
+          
         </p>
       </div>
 
