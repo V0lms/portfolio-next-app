@@ -13,7 +13,7 @@ export default function Navbar() {
             <nav className="container mx-auto px-4 flex items-center justify-between py-4">
                 <div className="flex lg:flex-1">
                     <Link href="/" className="text-xl font-bold hover:text-purple-400">
-                        Victor Olmos {pathname}
+                        Victor Olmos
                     </Link>
                 </div>
 
