@@ -6,10 +6,10 @@ export default function AboutPage() {
       <h1 className="text-4xl font-bold mb-8">Sobre mi</h1>
       <div className=" flex max-h-200px">
         <Image
-          src="/img/doggo2.jpeg"
+          src="public/img/me.jpg"
           width={200}
           height={200}
-          alt="Foto de mi perro"
+          alt="Avatar"
           className=" rounded-3xl w-44 max-h-44"
         />
         <div className="prose prose-lg dark:prose-invert">
