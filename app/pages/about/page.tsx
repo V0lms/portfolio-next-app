@@ -6,7 +6,7 @@ export default function AboutPage() {
       <h1 className="text-4xl font-bold mb-8">Sobre mi</h1>
       <div className=" flex max-h-200px">
         <Image
-          src="/img/me.jpg"
+          src="/img/me.png"
           width={200}
           height={200}
           alt="Avatar"
@@ -14,10 +14,10 @@ export default function AboutPage() {
         />
         <div className="prose prose-lg dark:prose-invert">
         <p className="text-xl font-bold ml-4">
-          Soy Victor, actualmente estoy estudiando DAW en la U-Tad
+          Soy Victor, actualmente estoy estudiando DAW en la U-Tad en busca de practicas
         </p><br />
         <p className="text-xl ml-4">
-          Aparte de la programacion tambien me gusta la fotografía, la astronomía y el senderismo en el ambito de la programacion estoy interesado en ciberseguridad, la computacion en nube y la administracion de sistemas, pero tambien me gusta aprender sobre mas cosas. 
+          Aparte de la programacion tambien me gusta la fotografía, la astronomía y el senderismo, en el ambito de la programacion estoy interesado en ciberseguridad, la computacion en nube y la administracion de sistemas, aunque tambien me gustaría aprender sobre mas cosas. 
         </p>
       </div>
       </div>
