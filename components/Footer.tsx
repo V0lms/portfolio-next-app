@@ -8,7 +8,7 @@ export default function Footer() {
                     <span></span>
                     
                     <p className="text-sm text-muted-foreground a">
-                        © 2024 Portfolio. All rights reserved.
+                        2024 - 2025 Portfolio.
                     </p>
 
                     <div className="flex space-x-6">
