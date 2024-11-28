@@ -6,7 +6,7 @@ export default function AboutPage() {
       <h1 className="text-4xl font-bold mb-8">Sobre mi</h1>
       <div className=" flex max-h-200px">
         <Image
-          src="public/img/me.jpg"
+          src="/img/me.jpg"
           width={200}
           height={200}
           alt="Avatar"
