@@ -42,9 +42,7 @@ export default function CurriculumPage() {
               <h3 className="text-xl font-medium">Departamento de producto</h3>
               <p className="">We Are Knitters <span className="text-sm ml-1">marzo 2023 - agosto 2023</span></p>
               <p className="text-s ">
-                Practicas del grado medio y extension de dos meses como empleado. <br />
-                En las cuales use un arduino para mostrar una pantalla de Tableau,
-                me encarege de la administracion de equipos y trabaje bajo el departamento.
+                Practicas del grado medio y extension de dos meses como empleado.
               </p>
             </div>
           </div>
